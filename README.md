@@ -10,4 +10,4 @@
 
 这些平台收录了多部日韩中文字幕精品影片，内容丰富，涵盖多样题材与不同风格。影片页面详细标注清晰度、时长、主角等信息，方便用户快速选择观看。系统支持高速播放模式，同时根据用户网络情况自动优化画质，带来更顺畅的使用体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/dangtho20250709/dangtho2 ）</span>
